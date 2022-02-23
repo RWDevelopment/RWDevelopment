@@ -7,4 +7,4 @@ Self taught programmer with basic skills at:
 - sass, bundlers [ rollup, esbuild ]
 - php and python
 
-According to 'less is more' rule - no heavy frameworks, mostly semantic code.
+According to '_less is more_' rule - no heavy frameworks, mostly semantic code.
