@@ -7,7 +7,7 @@ Self taught programmer, no commercial experience, with basic skills at:
 - Shoelace.style - library of web components
 - B4A [ Basic4Android ] - modern version of Visual Basic
 - json, yaml, markdown, sass
-- bundlers [ rollup, esbuild ]
+- npm, bundlers [ rollup, esbuild ]
 - php, twig, REST API and python
 
 According to '_less is more_' rule - no heavy frameworks, mostly semantic code.
