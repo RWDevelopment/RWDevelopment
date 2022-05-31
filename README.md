@@ -8,7 +8,7 @@ Self taught programmer, no commercial experience, with basic skills at:
 - B4A [ Basic4Android ] - modern version of Visual Basic
 - xml, json, yaml, markdown, sass
 - node, npm, bundlers [ rollup, esbuild ]
-- php, twig, REST API and python
+- composer, php, twig, REST API and python
 
 According to '_less is more_' rule - no heavy frameworks, mostly semantic code.
 
