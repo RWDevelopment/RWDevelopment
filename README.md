@@ -3,8 +3,7 @@
 - - -
 
 Self taught programmer, no commercial experience, with basic skills at:  
-- javascript, [ react, preact ], alpine.js
-- Shoelace.style - library of web components
+- javascript, [ react, preact, nano jsx ], alpine.js
 - B4A [ Basic4Android ] - modern version of Visual Basic
 - xml, json, yaml, markdown, sass
 - node, npm, bundlers [ rollup, esbuild ]
