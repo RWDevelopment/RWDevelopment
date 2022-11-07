@@ -3,11 +3,11 @@
 - - -
 
 Self taught programmer, no commercial experience, with basic skills at:  
-- javascript, [ react, preact, nano jsx ], alpine.js
+- javascript, [ react, preact, nano jsx ], alpine.js, web components
 - B4A [ Basic4Android ] - modern version of Visual Basic
 - xml, json, yaml, markdown, sass
 - node, npm, bundlers [ rollup, esbuild ]
-- composer, php, twig, REST API and python
+- composer, php, twig, smarty, REST API and python
 
 According to '_less is more_' rule - no heavy frameworks, mostly semantic code.
 
